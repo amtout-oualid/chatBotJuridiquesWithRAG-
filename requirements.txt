@@ -7,3 +7,7 @@ langchain-pinecone==0.2.8
 langchain-openai==0.3.24
 langchain-community==0.3.26
 langchain-google-genai>=2.0.0
+pdf2image
+pillow
+pytesseract
+pinecone-client
